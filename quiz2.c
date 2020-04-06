@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
+#include <stdbool.h> //hi
 
 int sumsTo(int x[], int n, int k, int v) { 
     // printf("x[0], n, k, v: %d, %d, %d, %d\n", x[0], n, k, v); 
